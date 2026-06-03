@@ -149,7 +149,7 @@ img {
     linear-gradient(90deg, #061b21 0%, rgba(6, 27, 33, 0) 13%, rgba(6, 27, 33, 0) 87%, #061b21 100%),
     linear-gradient(90deg, rgba(2, 16, 21, 0.34) 0%, rgba(2, 16, 21, 0.18) 42%, rgba(2, 16, 21, 0.02) 100%),
     linear-gradient(180deg, rgba(5, 18, 24, 0.04) 0%, rgba(5, 18, 24, 0.38) 100%),
-    url("/assets/images/daily-lift-hero-art.png?v=20260603-polish");
+    url("assets/images/daily-lift-hero-art.png?v=20260603-polish");
   background-color: var(--base-ink);
   background-position: center, center, center, center;
   background-repeat: no-repeat;
@@ -398,7 +398,7 @@ h3 {
   color: var(--white);
   background:
     linear-gradient(90deg, rgba(7, 25, 31, 0.92), rgba(7, 25, 31, 0.72)),
-    url("/assets/images/backlit-silk-hero.png");
+    url("assets/images/backlit-silk-hero.png");
   background-position: center 72%;
   background-size: cover;
 }
@@ -616,7 +616,7 @@ h3 {
     background:
       linear-gradient(90deg, rgba(2, 15, 20, 0.98) 0%, rgba(2, 15, 20, 0.96) 62%, rgba(2, 15, 20, 0.72) 82%, rgba(2, 15, 20, 0.34) 100%),
       linear-gradient(180deg, rgba(5, 18, 24, 0.02) 0%, rgba(5, 18, 24, 0.5) 100%),
-      url("/assets/images/daily-lift-hero-art.png?v=20260603-polish");
+      url("assets/images/daily-lift-hero-art.png?v=20260603-polish");
     background-position: center, center, 58% center;
     background-repeat: no-repeat;
     background-size: 100% 100%, 100% 100%, cover;

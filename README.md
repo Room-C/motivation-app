@@ -2,6 +2,20 @@
 
 Static official website for Daily Lift.
 
+## Deploy to GitHub Pages
+
+Use this when publishing to the default project Pages URL:
+
+`https://room-c.github.io/DailyLife-Website/`
+
+1. Make the repository public, or enable private GitHub Pages through an eligible plan.
+2. In GitHub, open Settings > Pages.
+3. Source: Deploy from a branch.
+4. Branch: `main`; folder: `/ (root)`.
+5. Save and wait for the Pages deployment to finish.
+
+The site uses relative URLs so assets and navigation work under the `/DailyLife-Website/` project path.
+
 ## Deploy to Vercel
 
 1. Import this repository in Vercel.

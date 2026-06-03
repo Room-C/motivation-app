@@ -3,11 +3,11 @@ const year = document.querySelector("[data-year]");
 
 const routeLegacyHash = () => {
   if (window.location.hash === "#privacy") {
-    window.location.replace("/privacy");
+    window.location.replace("privacy.html");
   }
 
   if (window.location.hash === "#eula" || window.location.hash === "#terms") {
-    window.location.replace("/eula");
+    window.location.replace("eula.html");
   }
 };
 
