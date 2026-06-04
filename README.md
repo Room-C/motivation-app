@@ -1,12 +1,12 @@
-# Daily Lift Official Site
+# Motivation Official Site
 
-Static official website for Daily Lift.
+Static official website for Motivation.
 
 ## Deploy to GitHub Pages
 
 Use this when publishing to the default project Pages URL:
 
-`https://room-c.github.io/DailyLife-Website/`
+`https://room-c.github.io/motivation-app/`
 
 1. Make the repository public, or enable private GitHub Pages through an eligible plan.
 2. In GitHub, open Settings > Pages.
@@ -14,7 +14,9 @@ Use this when publishing to the default project Pages URL:
 4. Branch: `main`; folder: `/ (root)`.
 5. Save and wait for the Pages deployment to finish.
 
-The site uses relative URLs so assets and navigation work under the `/DailyLife-Website/` project path.
+The site uses relative URLs so assets and navigation work under the `/motivation-app/` project path.
+
+Logo assets now use the refreshed Motivation artwork while keeping the existing legacy filename for site compatibility.
 
 ## Deploy to Vercel
 
