@@ -34,4 +34,4 @@ Logo assets now use the refreshed Motivation artwork while keeping the existing 
 - Confirm the final production domain.
 - Confirm `contact@dailylift.app` or replace it everywhere.
 - Review `privacy.html` and `eula.html` with product/legal before public launch.
-- Add the real Google Play link when the listing is live. (iOS App Store link is live.)
+- Google Play and iOS App Store links are live.
